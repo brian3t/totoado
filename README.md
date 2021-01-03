@@ -30,7 +30,6 @@ Run the following command to run startup migrations.
 adonis migration:run
 ```
 
-Serving TOTOSG:
-Console app:
-- pull toto results into database `lot` 
+### Console app:
+- to pull toto results into database `lot`, run: `node ace src_sg_pools` 
 - 
