@@ -15,9 +15,6 @@ This is the fullstack app for TOTOSG mobile app, it comes pre-configured with:
 - Add .env file to determine db settings, etc..
 - Use the adonis command to install the blueprint
 
-```bash
-adonis new yardstick
-```
 
 or manually clone the repo and then run `npm install`.
 
@@ -31,5 +28,5 @@ adonis migration:run
 ```
 
 ### Console app:
-- to pull toto results into database `lot`, run: `node ace src_sg_pools` 
+- to pull toto results into database `lot`, run: `node ace scr_sg_pools` 
 - 
